@@ -4,7 +4,7 @@ link to download the pretrain model (i.e. .h5 ) - https://drive.google.com/file/
 
 **optional** :  python -m venv samplename
             samplename\Scripts\activate.bat   
-   -step 1: download the pretrain model link given above or train the own model using the .ipynb file given under models folder and placed the .h5 in models folder       -step 2: pip install -r requirements.txt
-   -step 3: streamlit run app.py
+   **step 1**: download the pretrain model link given above or train the own model using the .ipynb file given under models folder and placed the .h5 in models folder    **step 2**: pip install -r requirements.txt
+   **step 3**: streamlit run app.py
 
           
