@@ -36,12 +36,13 @@ Place it in the models/ folder.
 
 
   
- ##**step 1**: download the pretrain model link given above or train the own model using the .ipynb file given under models folder and placed the .h5 in models folder            
- ##**step 2**: Install the requirement
-            
+ ## **step 1**: download the pretrain model link given above or train the own model using the .ipynb file given under models folder and placed the .h5 in models folder   
+             
+ ## **step 2**: Install the requirement
+          
             pip install -r requirements.txt
             
-##**step 3**: Run in vs terminal
+## **step 3**: Run in vs terminal
             
             streamlit run app.py
 
